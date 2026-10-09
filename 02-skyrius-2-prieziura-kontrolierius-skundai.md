@@ -76,7 +76,7 @@ Atskirtina sąvokų pora: kontrolierius yra pareigūnas, turintis įstatyme nust
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
 
-15¹ straipsnis (šaltinyje dėl prarasto viršutinio indekso pažymėtas kaip „151 straipsnis“) įtrauktas į įstatymą vėlesniu pakeitimu ir įtvirtina **Žmonių su negalia teisių stebėsenos komisijos** statusą bei funkcijas. Jis yra Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėsenos institucinis pagrindas (plg. 1 straipsnio 3 dalį).
+15¹ straipsnis įtrauktas į įstatymą vėlesniu pakeitimu ir įtvirtina **Žmonių su negalia teisių stebėsenos komisijos** statusą bei funkcijas. Jis yra Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėsenos institucinis pagrindas (plg. 1 straipsnio 3 dalį).
 
 1 dalis nustato, kad Komisija veikia pagal kontrolieriaus patvirtintus nuostatus ir **nėra juridinis asmuo** – ją techniškai ir ūkiškai aptarnauja Lygių galimybių kontrolieriaus tarnyba (6 dalis). 2 dalis reglamentuoja sudėtį: penki nariai, iš jų keturi – asmenų su negalia asociacijų atstovai ir vienas – tarnybos atstovas. Kandidatus bendru sutarimu siūlo asmenų su negalia asociacijos, kurios turi užtikrinti proporcingą atstovavimą atsižvelgiant į negalios pobūdį ir įvairovę bei asociacijų veiklos sritis. Tokia sudėtis įgyvendina idėją, kad asmenys su negalia patys dalyvauja stebint savo teisių įgyvendinimą.
 

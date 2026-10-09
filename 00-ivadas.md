@@ -37,7 +37,7 @@ Priežiūrą vykdo Seimo skiriamas lygių galimybių kontrolierius (14–23 stra
 ## Metodas
 
 - Nuostatų tekstas perkeltas **pažodžiui** iš oficialios e-TAR suvestinės redakcijos, mašininiu būdu, be santrumpų ir praleidimų. Straipsnių dalys šaltinyje numeruojamos („1.“, „2.“), punktai žymimi „1)“; komentare nurodoma, pvz., „29 straipsnio 2 dalies 8 punktas“.
-- Šaltinio tekste prarasti viršutiniai indeksai: 15¹ straipsnio antraštė pateikiama kaip „151 straipsnis“, o 2 straipsnio 7¹ dalis (seksualinio priekabiavimo sąvoka) – kaip „71.“. Vieneto žymenyje vartojamas teisingas žymuo „15¹ straipsnis“, o pats tekstas paliktas toks, koks yra šaltinyje.
+- Numeriai su viršutiniu indeksu (15¹ straipsnis, 2 straipsnio 7¹ dalis – seksualinio priekabiavimo sąvoka) pateikiami taip, kaip jie užrašyti šaltinyje.
 - e-TAR redakcinės pastabos (informacija apie straipsnių, jų dalių ir punktų pakeitimus ir papildymus) pateikiamos po atitinkamo vieneto teksto kaip atskiros pastabos; laužtiniuose skliaustuose nurodoma dalis arba punktas, po kurio pastaba stovi šaltinyje.
 - Priedas pateikiamas kaip atskiras vienetas. Pasirašymo formulė ir pakeitimų sąrašas į komentuojamą tekstą neįtraukti; iš jų paimti tik pagrindiniai duomenys šiame įvade.
 - Skyrių antraštės pateikiamos kaip struktūrinės antraštės.

@@ -40,7 +40,7 @@
 >
 > 7. Priekabiavimas – nepageidaujamas elgesys, kai lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu siekiama įžeisti arba įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka.
 >
-> 71. Seksualinis priekabiavimas – ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatyme.
+> 7¹. Seksualinis priekabiavimas – ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatyme.
 >
 > 8. Socialinė padėtis – asmens padėtis, kurią lemia jo šeiminė padėtis, įgytas išsilavinimas, kvalifikacija ar mokymasis ir studijos mokslo ir studijų institucijose, turima nuosavybė, gaunamos pajamos, teisės aktuose nustatytos valstybės paramos poreikis ir (arba) kiti su asmens turtine padėtimi susiję veiksniai.
 >
@@ -70,7 +70,7 @@
 >
 > 11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos ar vartojamos Lietuvos Respublikos darbo kodekse.
 
-*e-TAR redakcinė pastaba:* [71 d.] Papildyta straipsnio dalimi: Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
+*e-TAR redakcinė pastaba:* [7¹ d.] Papildyta straipsnio dalimi: Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
 
 *e-TAR redakcinė pastaba:* [8 d.] Straipsnio dalies pakeitimai: Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
